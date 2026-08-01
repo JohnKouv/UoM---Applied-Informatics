@@ -99,5 +99,5 @@ Example:
 The detailed report is available in:
 
 ```
-report/BCSP_Report.pdf
+report/Boolean_Constraint_Report.pdf
 ```

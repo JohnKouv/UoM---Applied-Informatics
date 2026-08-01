@@ -1,8 +1,6 @@
 /* 
 	Solving the Propositional (Boolean) Satisfiability problem
 	using Hill-Climbing and Depth-First Search.
-
-	Ioannis Refanidis, 2009
 */
 
 #include <stdio.h>

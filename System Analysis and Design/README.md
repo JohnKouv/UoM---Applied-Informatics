@@ -22,27 +22,6 @@ The proposed system improves:
 
 Throughout the project we identified the existing business problems (AS-IS), designed improved workflows (TO-BE), gathered requirements, modeled the system using UML, and finally implemented a working Java prototype.
 
-# Repository Structure
-
-System Analysis and Design/
-│
-├── Documents/
-│   ├── Group_Backlog.xlsx
-│   ├── Use Case Diagram.png
-│   └── Object Diagram.png
-│
-├── code/
-│   └── final_omada_20/
-│       ├── src/
-│       ├── bin/
-│       └── project files
-│
-├── uml_diagrams/
-│
-├── Case_Study.pdf
-├── Final_Draft.pdf
-└── Final_Draft.docx
-
 # Project Deliverables
 
 ## Case_Study.pdf

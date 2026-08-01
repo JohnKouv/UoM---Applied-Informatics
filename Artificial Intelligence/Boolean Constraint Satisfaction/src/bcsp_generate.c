@@ -10,8 +10,6 @@
 // Syntax:
 // generator <prefix> <id1> <id2>
 //
-// Author: Ioannis Refanidis, April 2009
-//
 // --------------------------------------------------------------
 
 #include <stdio.h>

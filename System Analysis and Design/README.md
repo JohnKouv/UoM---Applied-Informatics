@@ -48,8 +48,7 @@ Illustrates the interactions between the system actors and the main functionalit
 
 Represents object instances derived from the final class model.
 
-
-## code/
+## code
 
 Contains the Java implementation of the designed Information System.
 

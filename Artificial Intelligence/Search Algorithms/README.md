@@ -73,5 +73,5 @@ The program outputs the sequence of operations required to reach the target stat
 The detailed project report is available in:
 
 ```
-report/AI_Search_Algorithm_Report.pdf
+report/Search_Algorithms_Report.pdf
 ```

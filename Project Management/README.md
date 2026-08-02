@@ -50,8 +50,7 @@ Project Management/
 
 The repository includes both the editable **BPMN (.bpmn)** model and an image of the final workflow.
 
-➡️ **View the BPMN Diagram:** `diagrams/project-workflow.png`
-**[View the BPMN Workflow](diagrams/project-workflow.png)**
+➡️ **View the BPMN Diagram:** *[View the BPMN Workflow](diagrams/project-workflow.png)*
 ---
 
 ### Work Breakdown Structure (WBS)

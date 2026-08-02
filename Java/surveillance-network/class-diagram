@@ -1,0 +1,13 @@
+Communication
+      ▲
+      │
+ ┌────┴─────┐
+ │          │
+PhoneCall   SMS
+
+Registry
+   │
+   ├─────────────► Communication
+   │
+   └─────────────► Suspect
+

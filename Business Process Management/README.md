@@ -18,8 +18,6 @@ The repository contains multiple versions of the same business process, each ref
 - DMN Decision Tables
 - Process refinement and optimization
 
-The final model represents a complete and structured workflow for handling disability certification requests, from application submission to decision notification and communication with external authorities.
-
 ## Tools
 
 - Camunda Modeler

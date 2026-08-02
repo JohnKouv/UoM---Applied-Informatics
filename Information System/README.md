@@ -33,7 +33,7 @@ The project combines enterprise technologies to model business processes, automa
 
 ### Signavio Business Process
 
-![Signavio](images/signavio-simulation.png)
+![Signavio](images/signavio-process.png)
 
 ---
 

@@ -73,6 +73,12 @@ tic-tac-toe-java/
 ```
 
 ---
+### Future Improvements
+
+- Implement an AI opponent using the Minimax algorithm
+- Refactor the board coordinate conversion
+- Replace repetitive conditionals with reusable helper methods
+- Introduce object-oriented design using dedicated Game, Board and Player classes
 
 ## Learning Outcomes
 

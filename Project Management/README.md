@@ -58,23 +58,20 @@ The repository includes both the editable **BPMN (.bpmn)** model and an image of
 The WBS decomposes the project into manageable deliverables and work packages, providing a structured overview of the project's scope.
 
 ➡️ *[View the Work Breakdown Structure](diagrams/work-breakdown-structure.png)*
-
 ---
 
 ### Gantt Chart
 
 The Gantt chart illustrates the project schedule, task dependencies, milestones, and overall timeline.
 
-➡️ **View the Gantt Chart:** `diagrams/gantt-chart.png`
-
+➡️ *[View the Gantt Chart](diagrams/gantt-chart.png)*
 ---
 
 ### DAE Diagram
 
 The repository also contains the project's DAE diagram, supporting the overall planning and analysis process.
 
-➡️ **View the DAE Diagram:** `diagrams/dae-diagram.png`
-
+➡️ *[View the DAE Diagram](diagrams/dae-diagram.png)*
 ---
 
 ## Documentation

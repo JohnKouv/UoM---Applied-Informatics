@@ -60,7 +60,7 @@ The project combines enterprise technologies to model business processes, automa
 The Tableau dashboard created during the project is publicly available.
 
 🔗 **Dashboard:**  
-*[(Add your Tableau Public link here)](https://public.tableau.com/app/profile/.80892193/viz/olympics_16717972760580/Dashboard1)*
+*(https://public.tableau.com/app/profile/.80892193/viz/olympics_16717972760580/Dashboard1)*
 
 ---
 

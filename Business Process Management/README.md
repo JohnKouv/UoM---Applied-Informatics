@@ -1,22 +1,54 @@
-# Disability Certification Process Modeling (BPMN & DMN)
+# Business Process Management
 
-A business process modeling project developed using **Camunda Modeler** as part of a Business Process Management course.
+A collection of BPMN 2.0 and DMN models developed using **Camunda Modeler**, demonstrating the iterative design and refinement of a real-world business process throughout a Business Process Management course.
 
-This repository documents the iterative development of a **Disability Evaluation and Certification** process, demonstrating the application of BPMN 2.0 concepts and, in later versions, DMN decision modeling.
+The project models the **Disability Evaluation and Certification** workflow and showcases the progressive application of BPMN and DMN concepts, from a basic process model to a complete business process.
 
-## Project Overview
+---
 
-The repository contains multiple versions of the same business process, each reflecting the introduction of new modeling concepts throughout the course, including:
+## Project Highlights
 
-- BPMN 2.0 process modeling
-- Collaboration diagrams (Pools & Lanes)
-- Events and Gateways
-- Message Flows
+Throughout the project, the following concepts were applied:
+
+- BPMN 2.0 Process Modeling
+- Collaboration Diagrams (Pools & Lanes)
+- Sequence and Message Flows
+- Events (Start, Intermediate, End)
+- Exclusive and Event-Based Gateways
 - Data Objects & Data Stores
 - Subprocesses
-- Error and Timer Events
+- Timer and Error Events
 - DMN Decision Tables
-- Process refinement and optimization
+
+---
+
+## Repository Structure
+
+```
+Business Process Management/
+│
+├── docs/
+│   ├── Process diagrams (PNG)
+│   └── Screenshots of each model version
+│
+├── models/
+│   ├── BPMN process models (.bpmn)
+│   └── DMN decision tables (.dmn)
+│
+├── simulation/
+│   └── Camunda simulation report and analysis
+│
+└── README.md
+```
+
+---
+
+## Version Evolution
+
+The repository contains multiple versions of the same business process, documenting its evolution as additional BPMN and DMN concepts were introduced.
+The screenshots in the **docs/** directory provide a visual overview of each stage of the modeling process.
+
+---
 
 ## Tools
 
@@ -24,6 +56,8 @@ The repository contains multiple versions of the same business process, each ref
 - BPMN 2.0
 - DMN 1.3
 
-## Purpose
+---
 
-This project showcases practical business process modeling skills, emphasizing process analysis, workflow design, and the progressive application of BPMN and DMN best practices.
+## Objective
+
+The purpose of this repository is to demonstrate practical skills in business process analysis. It serves as a portfolio project that showcases the evolution of a business process from an initial model to a structured and maintainable solution.

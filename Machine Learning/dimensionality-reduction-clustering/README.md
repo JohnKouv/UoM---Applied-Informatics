@@ -2,7 +2,7 @@
 ### Dimensionality Reduction & Clustering Algorithms
 
 <p align="center">
-  <img src="images/comparison_table-pca.png" width="90%">
+  <img src="images/comparison-table-pca.png" width="90%">
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)

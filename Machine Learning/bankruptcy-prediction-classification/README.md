@@ -13,7 +13,7 @@ The objective of this project was to design and evaluate a complete machine lear
 ## Machine Learning Pipeline
 
 <p align="center">
-  <img src="images/pipeline_workflow.png" width="750">
+  <img src="images/pipeline_workflow" width="750">
 </p>
 
 The implemented workflow consists of:

@@ -12,10 +12,16 @@ The objective of this project was to design and evaluate a complete machine lear
 
 ## Machine Learning Pipeline
 
-<p align="center">
-  <img src="images/pipeline_workflow" width="750">
-</p>
-
+```mermaid
+flowchart TD
+    A[Dataset] --> B[Data Preprocessing]
+    B --> C[Min-Max Scaling]
+    C --> D[Stratified 4-Fold Cross Validation]
+    D --> E[Training Set Balancing]
+    E --> F[Model Training]
+    F --> G[Performance Evaluation]
+    G --> H[Model Comparison]
+```
 The implemented workflow consists of:
 
 * Data loading and preprocessing

@@ -1,12 +1,22 @@
-## Machine Learning Pipeline
-
-```mermaid
-flowchart TD
-    A[Dataset] --> B[Data Preprocessing]
-    B --> C[Min-Max Scaling]
-    C --> D[Stratified 4-Fold Cross Validation]
-    D --> E[Training Set Balancing]
-    E --> F[Model Training]
-    F --> G[Performance Evaluation]
-    G --> H[Model Comparison]
-```
+Dataset
+   │
+   ▼
+Data Preprocessing
+   │
+   ▼
+Min-Max Scaling
+   │
+   ▼
+Stratified 4-Fold CV
+   │
+   ▼
+Training Set Balancing
+   │
+   ▼
+Model Training
+   │
+   ▼
+Performance Evaluation
+   │
+   ▼
+Model Comparison

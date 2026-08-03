@@ -1,0 +1,22 @@
+Dataset
+   │
+   ▼
+Data Preprocessing
+   │
+   ▼
+Min-Max Scaling
+   │
+   ▼
+Stratified 4-Fold CV
+   │
+   ▼
+Training Set Balancing
+   │
+   ▼
+Model Training
+   │
+   ▼
+Performance Evaluation
+   │
+   ▼
+Model Comparison

@@ -153,7 +153,7 @@ K --> O[Adjusted Mutual Information]
 ## Overall Performance Comparison
 
 <p align="center">
-<img src="images/comparison_table.png" width="95%">
+  <img src="images/comparison-table.png" width="90%">
 </p>
 
 ---
